@@ -1,0 +1,118 @@
+{
+  "data_to": "2026-10-17",
+  "matches": 11699,
+  "test_season": "2025-26",
+  "backtest": [
+    {
+      "model": "Base rates",
+      "log_loss": 1.0651,
+      "brier": 0.6435,
+      "accuracy": 0.4601
+    },
+    {
+      "model": "Elo",
+      "log_loss": 1.0366,
+      "brier": 0.6223,
+      "accuracy": 0.4783
+    },
+    {
+      "model": "Poisson",
+      "log_loss": 1.0443,
+      "brier": 0.6275,
+      "accuracy": 0.4783
+    },
+    {
+      "model": "Bookmaker average (implied)",
+      "log_loss": 1.0205,
+      "brier": 0.6107,
+      "accuracy": 0.5072
+    }
+  ],
+  "home_win_rate": 0.4354417145844224,
+  "draw_rate": 0.25326711970726606,
+  "top_elo": [
+    {
+      "team": "Stockport",
+      "elo": 1562.0
+    },
+    {
+      "team": "Plymouth",
+      "elo": 1536.0
+    },
+    {
+      "team": "Luton",
+      "elo": 1522.0
+    },
+    {
+      "team": "Bradford",
+      "elo": 1521.0
+    },
+    {
+      "team": "Huddersfield",
+      "elo": 1520.0
+    }
+  ],
+  "sim_top": [
+    {
+      "team": "Stockport",
+      "points_now": 19,
+      "exp_points": 78.6,
+      "p_title": 0.219,
+      "p_auto_promotion": 0.382,
+      "p_playoffs": 0.403
+    },
+    {
+      "team": "Oxford",
+      "points_now": 15,
+      "exp_points": 78.4,
+      "p_title": 0.206,
+      "p_auto_promotion": 0.372,
+      "p_playoffs": 0.408
+    },
+    {
+      "team": "Huddersfield",
+      "points_now": 19,
+      "exp_points": 77.4,
+      "p_title": 0.165,
+      "p_auto_promotion": 0.322,
+      "p_playoffs": 0.425
+    },
+    {
+      "team": "Bradford",
+      "points_now": 20,
+      "exp_points": 75.4,
+      "p_title": 0.101,
+      "p_auto_promotion": 0.218,
+      "p_playoffs": 0.424
+    },
+    {
+      "team": "Cambridge",
+      "points_now": 19,
+      "exp_points": 75.4,
+      "p_title": 0.101,
+      "p_auto_promotion": 0.214,
+      "p_playoffs": 0.428
+    },
+    {
+      "team": "Plymouth",
+      "points_now": 19,
+      "exp_points": 73.4,
+      "p_title": 0.068,
+      "p_auto_promotion": 0.153,
+      "p_playoffs": 0.391
+    }
+  ],
+  "orient": [
+    {
+      "team": "Leyton Orient",
+      "points_now": 14,
+      "played": 10,
+      "exp_points": 62.5,
+      "p_title": 0.004,
+      "p_auto_promotion": 0.01,
+      "p_playoffs": 0.089,
+      "p_relegation": 0.047,
+      "exp_position": 12.6
+    }
+  ]
+}
