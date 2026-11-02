@@ -1,6 +1,6 @@
 {
-  "data_to": "2026-10-21",
-  "matches": 11724,
+  "data_to": "2026-10-27",
+  "matches": 11766,
   "test_season": "2025-26",
   "backtest": [
     {
@@ -28,91 +28,91 @@
       "accuracy": 0.5072
     }
   ],
-  "home_win_rate": 0.4359041167274622,
-  "draw_rate": 0.2529963522668056,
+  "home_win_rate": 0.4363164721141375,
+  "draw_rate": 0.253177691309987,
   "top_elo": [
     {
       "team": "Stockport",
-      "elo": 1574.0
-    },
-    {
-      "team": "Huddersfield",
-      "elo": 1528.0
+      "elo": 1562.0
     },
     {
       "team": "Luton",
-      "elo": 1527.0
+      "elo": 1542.0
     },
     {
-      "team": "Bradford",
-      "elo": 1520.0
+      "team": "Huddersfield",
+      "elo": 1533.0
+    },
+    {
+      "team": "Plymouth",
+      "elo": 1530.0
     },
     {
       "team": "Oxford",
-      "elo": 1519.0
+      "elo": 1527.0
     }
   ],
   "sim_top": [
     {
-      "team": "Stockport",
-      "points_now": 22,
-      "exp_points": 81.1,
-      "p_title": 0.278,
-      "p_auto_promotion": 0.474,
-      "p_playoffs": 0.383
-    },
-    {
       "team": "Oxford",
-      "points_now": 18,
-      "exp_points": 79.9,
-      "p_title": 0.221,
-      "p_auto_promotion": 0.399,
-      "p_playoffs": 0.413
+      "points_now": 22,
+      "exp_points": 81.3,
+      "p_title": 0.269,
+      "p_auto_promotion": 0.456,
+      "p_playoffs": 0.387
     },
     {
       "team": "Huddersfield",
-      "points_now": 22,
-      "exp_points": 79.3,
-      "p_title": 0.205,
-      "p_auto_promotion": 0.374,
-      "p_playoffs": 0.422
+      "points_now": 25,
+      "exp_points": 80.3,
+      "p_title": 0.228,
+      "p_auto_promotion": 0.404,
+      "p_playoffs": 0.407
+    },
+    {
+      "team": "Stockport",
+      "points_now": 23,
+      "exp_points": 78.5,
+      "p_title": 0.162,
+      "p_auto_promotion": 0.316,
+      "p_playoffs": 0.437
     },
     {
       "team": "Bradford",
-      "points_now": 21,
-      "exp_points": 74.9,
-      "p_title": 0.075,
-      "p_auto_promotion": 0.17,
-      "p_playoffs": 0.41
+      "points_now": 22,
+      "exp_points": 75.2,
+      "p_title": 0.071,
+      "p_auto_promotion": 0.166,
+      "p_playoffs": 0.416
     },
     {
       "team": "Reading",
-      "points_now": 18,
-      "exp_points": 74.5,
-      "p_title": 0.077,
-      "p_auto_promotion": 0.175,
-      "p_playoffs": 0.418
+      "points_now": 21,
+      "exp_points": 75.1,
+      "p_title": 0.086,
+      "p_auto_promotion": 0.181,
+      "p_playoffs": 0.416
     },
     {
-      "team": "Cambridge",
+      "team": "Luton",
       "points_now": 20,
-      "exp_points": 73.7,
-      "p_title": 0.052,
-      "p_auto_promotion": 0.132,
-      "p_playoffs": 0.394
+      "exp_points": 74.1,
+      "p_title": 0.059,
+      "p_auto_promotion": 0.141,
+      "p_playoffs": 0.384
     }
   ],
   "orient": [
     {
       "team": "Leyton Orient",
       "points_now": 14,
-      "played": 11,
-      "exp_points": 61.2,
-      "p_title": 0.002,
-      "p_auto_promotion": 0.006,
-      "p_playoffs": 0.057,
-      "p_relegation": 0.048,
-      "exp_position": 13.5
+      "played": 12,
+      "exp_points": 59.1,
+      "p_title": 0.0,
+      "p_auto_promotion": 0.001,
+      "p_playoffs": 0.028,
+      "p_relegation": 0.063,
+      "exp_position": 14.7
     }
   ]
 }
